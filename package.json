@@ -3,15 +3,15 @@
   "name": "node-salesforce",
   "description": "Salesforce API Connection Library for Node.js Applications",
   "keywords": [ "salesforce", "salesforce.com", "sfdc", "force.com", "database.com" ],
-  "homepage": "http://github.com/stomita/node-salesforce",
-  "version": "0.5.1",
+  "homepage": "http://github.com/dcolens/node-salesforce",
+  "version": "0.5.2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/stomita/node-salesforce.git"
+    "url": "git://github.com/dcolens/node-salesforce.git"
   },
   "licenses" : [{
     "type" : "MIT",
-    "url" : "http://github.com/stomita/node-salesforce/raw/master/LICENSE"
+    "url" : "http://github.com/dcolens/node-salesforce/raw/master/LICENSE"
   }],
   "main" : "./lib/salesforce",
   "scripts": {
